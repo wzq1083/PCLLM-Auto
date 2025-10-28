@@ -14,7 +14,7 @@ https://github.com/wzq1083/PCLLM-Auto.git
 ```
 2.Configure environment
 ```bash
-conda create -n PCLLM
+conda create -n PCLLM python=3.8
 conda activate PCLLM
 pip install -r requirements.txt
 ```
